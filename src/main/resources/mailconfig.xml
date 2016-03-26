@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
-<entry key="mailTo">ust.valeri@gmail.com</entry>
+<entry key="mailTo">ex@example.com</entry>
 <entry key="letterSubject">This Letter is for you! Это письмо для Вас!</entry>
 <entry key="secretaryName">Алла Борисовна</entry>
 <entry key="Content-type">text/html; charset=utf-8</entry>
 <entry key="mail.smtps.host">smtp.gmail.com</entry>
-<entry key="login">ust.valeri@gmail.com</entry>
+<entry key="login">ex@example.com</entry>
 <entry key="password">password here</entry>
 <entry key="mail.smtps.auth">true</entry>
-<entry key="mailFrom">ust.valeri@gmail.com</entry>
+<entry key="mailFrom">ex@example.com</entry>
 </properties>

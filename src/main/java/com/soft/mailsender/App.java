@@ -31,12 +31,12 @@ public class App {
 
 		
 		Properties properties = new Properties();
-		
+
 		properties.setProperty("secretaryName", "Алла Борисовна");
 		properties.setProperty("password", "password here");
-		properties.setProperty("login", "ust.valeri@gmail.com");
-		properties.setProperty("mailFrom", "ust.valeri@gmail.com");
-		properties.setProperty("mailTo", "ust.valeri@gmail.com");
+		properties.setProperty("login", "ex@example.com");
+		properties.setProperty("mailFrom", "ex@example.com");
+		properties.setProperty("mailTo", "ex@example.com");
 		properties.setProperty("letterSubject", "This Letter is for you! Это письмо для Вас!");
 		properties.setProperty("mail.smtps.host", "smtp.gmail.com");
 		properties.setProperty("mail.smtps.auth", "true");
